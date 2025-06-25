@@ -1,0 +1,797 @@
+## Footprint report - date Tue Nov 14 16:13:45 2023
+## Created by KiCad version 7.0.8
+## Unit = inches, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner  2.750047  3.147638
+lower_right_corner  9.060977  4.529528
+$EndBOARD
+
+$MODULE BS1
+footprint footprints:SW_EG1218
+attribut none
+position  4.929134  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS1
+
+$MODULE BS2
+footprint footprints:SW_EG1218
+attribut none
+position  5.322835  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS2
+
+$MODULE BS3
+footprint footprints:SW_EG1218
+attribut none
+position  5.716535  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS3
+
+$MODULE BS4
+footprint footprints:SW_EG1218
+attribut none
+position  6.110236  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS4
+
+$MODULE BS5
+footprint footprints:SW_EG1218
+attribut none
+position  6.503937  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS5
+
+$MODULE BS6
+footprint footprints:SW_EG1218
+attribut none
+position  6.897638  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS6
+
+$MODULE BS7
+footprint footprints:SW_EG1218
+attribut none
+position  7.291339  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS7
+
+$MODULE BS8
+footprint footprints:SW_EG1218
+attribut none
+position  7.685039  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS8
+
+$MODULE BS9
+footprint footprints:SW_EG1218
+attribut none
+position  8.078740  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS9
+
+$MODULE BS10
+footprint footprints:SW_EG1218
+attribut none
+position  8.472441  3.425197  orientation -90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  0.098425  0.000000  size  0.059370  0.059370  orientation 360.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BS10
+
+$MODULE H1
+footprint MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad
+attribut virtual
+position  8.858268  3.464567  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.185039  0.185039  orientation 0.00
+drill  0.106299
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H1
+
+$MODULE H2
+footprint MountingHole:MountingHole_2.2mm_M2_DIN965_Pad
+attribut virtual
+position  2.952756  3.464567  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.149606  0.149606  orientation 0.00
+drill  0.086614
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H2
+
+$MODULE H3
+footprint MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad
+attribut virtual
+position  8.858268  4.212598  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.185039  0.185039  orientation 0.00
+drill  0.106299
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H3
+
+$MODULE H4
+footprint MountingHole:MountingHole_2.2mm_M2_DIN965_Pad
+attribut virtual
+position  2.952756  4.212598  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.149606  0.149606  orientation 0.00
+drill  0.086614
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H4
+
+$MODULE J1
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  3.277165  4.355906  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE J2
+footprint Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical
+attribut none
+position  3.582677  4.329134  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  0.066929  0.066929  orientation 0.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  0.100000  size  0.066929  0.066929  orientation 0.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE J3
+footprint Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical
+attribut none
+position  3.744094  4.329134  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  0.066929  0.066929  orientation 0.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  0.100000  size  0.066929  0.066929  orientation 0.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J3
+
+$MODULE J4
+footprint Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical
+attribut none
+position  4.539370  4.427165  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  0.066929  0.066929  orientation 0.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  0.100000  size  0.066929  0.066929  orientation 0.00
+drill  0.039370
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J4
+
+$MODULE J5
+footprint Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal
+attribut none
+position  4.014173  4.107185  orientation 0.00
+layer front
+$PAD "1"
+Shape Roundrect Layer both
+position  0.000000  0.000000  size  0.081890  0.141732  orientation 0.00
+drill  0.055118
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.200000  0.000000  size  0.081890  0.141732  orientation 0.00
+drill  0.055118
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J5
+
+$MODULE J6
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  4.866142  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J6
+
+$MODULE J7
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  5.259843  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J7
+
+$MODULE J8
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  5.653543  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J8
+
+$MODULE J9
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  6.049606  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J9
+
+$MODULE J10
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  6.440945  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J10
+
+$MODULE J11
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  6.834646  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J11
+
+$MODULE J12
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  7.228346  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J12
+
+$MODULE J13
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  7.622047  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J13
+
+$MODULE J14
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  8.015748  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J14
+
+$MODULE J15
+footprint Connector_Coaxial:SMB_Jack_Vertical
+attribut none
+position  8.409449  4.356693  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  0.088189  0.088189  orientation 0.00
+drill  0.047244
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000 -0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.100000  0.100000  size  0.107874  0.107874  orientation 0.00
+drill  0.066929
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J15
+
+$EndDESCRIPTION

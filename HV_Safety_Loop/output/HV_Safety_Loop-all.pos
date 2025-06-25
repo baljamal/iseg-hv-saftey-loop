@@ -1,0 +1,31 @@
+### Footprint positions - created on Tue Nov 14 16:13:37 2023 ###
+### Printed by KiCad version 7.0.8
+## Unit = inches, Angle = deg.
+## Side : All
+# Ref     Val         Package                                                         PosX       PosY       Rot  Side
+BS1       EG1218      SW_EG1218                                                     4.9291    -3.4252  -90.0000  top
+BS2       EG1218      SW_EG1218                                                     5.3228    -3.4252  -90.0000  top
+BS3       EG1218      SW_EG1218                                                     5.7165    -3.4252  -90.0000  top
+BS4       EG1218      SW_EG1218                                                     6.1102    -3.4252  -90.0000  top
+BS5       EG1218      SW_EG1218                                                     6.5039    -3.4252  -90.0000  top
+BS6       EG1218      SW_EG1218                                                     6.8976    -3.4252  -90.0000  top
+BS7       EG1218      SW_EG1218                                                     7.2913    -3.4252  -90.0000  top
+BS8       EG1218      SW_EG1218                                                     7.6850    -3.4252  -90.0000  top
+BS9       EG1218      SW_EG1218                                                     8.0787    -3.4252  -90.0000  top
+BS10      EG1218      SW_EG1218                                                     8.4724    -3.4252  -90.0000  top
+J1        SL          SMB_Jack_Vertical                                             3.2772    -4.3559  180.0000  top
+J2        Filter_Cap  PinSocket_1x02_P2.54mm_Vertical                               3.5827    -4.3291    0.0000  top
+J3        Filter_Cap  PinSocket_1x02_P2.54mm_Vertical                               3.7441    -4.3291    0.0000  top
+J4        Filter_Cap  PinSocket_1x02_P2.54mm_Vertical                               4.5394    -4.4272  180.0000  top
+J5        PLC_EN      PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal     4.0142    -4.1072    0.0000  top
+J6        OUT1        SMB_Jack_Vertical                                             4.8661    -4.3567  180.0000  top
+J7        OUT2        SMB_Jack_Vertical                                             5.2598    -4.3567  180.0000  top
+J8        OUT3        SMB_Jack_Vertical                                             5.6535    -4.3567  180.0000  top
+J9        OUT4        SMB_Jack_Vertical                                             6.0496    -4.3567  180.0000  top
+J10       OUT5        SMB_Jack_Vertical                                             6.4409    -4.3567  180.0000  top
+J11       OUT6        SMB_Jack_Vertical                                             6.8346    -4.3567  180.0000  top
+J12       OUT7        SMB_Jack_Vertical                                             7.2283    -4.3567  180.0000  top
+J13       OUT8        SMB_Jack_Vertical                                             7.6220    -4.3567  180.0000  top
+J14       OUT9        SMB_Jack_Vertical                                             8.0157    -4.3567  180.0000  top
+J15       OUT10       SMB_Jack_Vertical                                             8.4094    -4.3567  180.0000  top
+## End

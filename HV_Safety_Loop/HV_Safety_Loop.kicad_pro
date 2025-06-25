@@ -441,7 +441,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "models/HV_Safety_Loop.step",
+      "step": "../../../../../Desktop/HV_Safety_Loop.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
