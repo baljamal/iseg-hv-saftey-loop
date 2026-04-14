@@ -1,0 +1,26 @@
+Drill report for HV_Safety_Loop.kicad_pcb
+Created on 10/10/2025 12:28:34 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'HV_Safety_Loop-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  1.000mm  0.0394"  (68 holes)
+    T2  1.200mm  0.0472"  (21 holes)
+    T3  1.400mm  0.0551"  (2 holes)
+    T4  1.700mm  0.0669"  (84 holes)
+
+    Total plated holes count 175
+
+
+Drill file 'HV_Safety_Loop-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  6.400mm  0.2520"  (4 holes)
+
+    Total unplated holes count 4

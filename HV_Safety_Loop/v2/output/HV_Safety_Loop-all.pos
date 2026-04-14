@@ -1,0 +1,53 @@
+### Footprint positions - created on Fri Oct 31 14:23:13 2025 ###
+### Printed by KiCad version 7.0.8
+## Unit = inches, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                                         PosX       PosY       Rot  Side
+BS1       EG1218                SW_EG1218                                                     8.7638    -8.2476  -90.0000  top
+BS2       EG1218                SW_EG1218                                                     9.1575    -8.2476  -90.0000  top
+BS3       EG1218                SW_EG1218                                                     9.5512    -8.2476  -90.0000  top
+BS4       EG1218                SW_EG1218                                                     9.9449    -8.2476  -90.0000  top
+BS5       EG1218                SW_EG1218                                                    10.3386    -8.2476  -90.0000  top
+BS6       EG1218                SW_EG1218                                                    10.7323    -8.2476  -90.0000  top
+BS7       EG1218                SW_EG1218                                                    11.1260    -8.2476  -90.0000  top
+BS8       EG1218                SW_EG1218                                                    11.5197    -8.2476  -90.0000  top
+BS9       EG1218                SW_EG1218                                                    11.9134    -8.2476  -90.0000  top
+BS10      EG1218                SW_EG1218                                                    12.3071    -8.2476  -90.0000  top
+BS11      EG1218                SW_EG1218                                                    12.6764    -8.2555  -90.0000  top
+BS12      EG1218                SW_EG1218                                                    13.0457    -8.2555  -90.0000  top
+BS13      EG1218                SW_EG1218                                                    13.4150    -8.2555  -90.0000  top
+BS14      EG1218                SW_EG1218                                                    13.7843    -8.2555  -90.0000  top
+BS15      EG1218                SW_EG1218                                                    14.1535    -8.2555  -90.0000  top
+BS16      EG1218                SW_EG1218                                                    14.5228    -8.2555  -90.0000  top
+BS17      EG1218                SW_EG1218                                                    14.8921    -8.2555  -90.0000  top
+BS18      EG1218                SW_EG1218                                                    15.2614    -8.2555  -90.0000  top
+BS19      EG1218                SW_EG1218                                                    15.6307    -8.2555  -90.0000  top
+BS20      EG1218                SW_EG1218                                                    16.0000    -8.2555  -90.0000  top
+J1        SL                    SMB_Jack_Vertical                                             6.3654    -9.1736  180.0000  top
+J2        Resistor_Bypass       PinHeader_1x02_P2.54mm_Vertical                               7.2766    -8.9476   90.0000  top
+J3        Filter_Cap            PinSocket_1x02_P2.54mm_Vertical                               6.9453    -9.1736    0.0000  top
+J4        Filter_Cap            PinSocket_1x02_P2.54mm_Vertical                               6.7392    -9.1736    0.0000  top
+J5        PLC_Interlock_Bypass  PinHeader_1x02_P2.54mm_Vertical                               7.8112    -8.6122   90.0000  top
+J6        PLC_EN                PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal     7.7713    -8.9433    0.0000  top
+J7        OUT1                  SMB_Jack_Vertical                                             9.0945    -9.1736  180.0000  top
+J8        OUT2                  SMB_Jack_Vertical                                             9.4882    -9.1736  180.0000  top
+J9        OUT3                  SMB_Jack_Vertical                                             9.8843    -9.1736  180.0000  top
+J10       OUT4                  SMB_Jack_Vertical                                            10.2756    -9.1736  180.0000  top
+J11       OUT5                  SMB_Jack_Vertical                                            10.6693    -9.1736  180.0000  top
+J12       OUT6                  SMB_Jack_Vertical                                            11.0630    -9.1736  180.0000  top
+J13       OUT7                  SMB_Jack_Vertical                                            11.4567    -9.1736  180.0000  top
+J14       OUT8                  SMB_Jack_Vertical                                            11.8504    -9.1736  180.0000  top
+J15       OUT9                  SMB_Jack_Vertical                                            12.2441    -9.1736  180.0000  top
+J16       OUT10                 SMB_Jack_Vertical                                            12.6378    -9.1736    0.0000  top
+J17       OUT11                 SMB_Jack_Vertical                                            13.0315    -9.1736    0.0000  top
+J18       OUT12                 SMB_Jack_Vertical                                            13.4252    -9.1736    0.0000  top
+J19       OUT13                 SMB_Jack_Vertical                                            13.8189    -9.1736    0.0000  top
+J20       OUT14                 SMB_Jack_Vertical                                            14.2126    -9.1736    0.0000  top
+J21       OUT15                 SMB_Jack_Vertical                                            14.6063    -9.1736    0.0000  top
+J22       OUT16                 SMB_Jack_Vertical                                            15.0000    -9.1736    0.0000  top
+J23       OUT17                 SMB_Jack_Vertical                                            15.3937    -9.1736    0.0000  top
+J24       OUT18                 SMB_Jack_Vertical                                            15.7874    -9.1736    0.0000  top
+J25       OUT19                 SMB_Jack_Vertical                                            16.1811    -9.1736    0.0000  top
+J26       OUT20                 SMB_Jack_Vertical                                            16.5748    -9.1736   90.0000  top
+R1        1500_ohm              R_2512_6332Metric                                             7.3236    -9.1732  180.0000  top
+## End
